@@ -1,4 +1,4 @@
-const message = `Just a reminder\n\nYou’re stronger, brighter, and more amazing than you give yourself credit for.\n\nKeep shining, the world needs your light. \n\nI wish you could see yourself through my eyes — you’d finally understand how amazing you truly are.✨ \n\nLike I could ever forget… happy birthday, Gorgeous💕.\n\nHope today spoils you as much as you deserve.`;
+const message = `Hi BRINET!!\n\nYou’re stronger, brighter, and more amazing than you give yourself credit for.\n\nKeep shining, the world needs your light. \n\nI wish you could see yourself through my eyes — you’d finally understand how amazing you truly are.✨ \n\nLike I could ever forget… happy birthday, Gorgeous💕.\n\nHope today spoils you as much as you deserve. `;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
