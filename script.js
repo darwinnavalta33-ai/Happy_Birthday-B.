@@ -1,4 +1,4 @@
-const message = `Hi BRINET!!\n\nTo the one who makes my heart race a little faster. I hope your day is as amazing as you are✨. \n\nKeep shining, the world needs your light. \n\nLike I could ever forget… happy birthday, Gorgeous💕.\n\nHope today spoils you as much as you deserve. `;
+const message = `Hi BRINET!!\n\nTo the one who makes my heart race a little faster. I hope your day is as amazing as you are✨.\nKeep shining, the world needs your light. \n\nLike I could ever forget… happy birthday, Gorgeous💕.\n\nHope today spoils you as much as you deserve. `;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
